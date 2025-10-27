@@ -117,6 +117,7 @@ The table below shows the full list of languages (and corresponding classes/alia
 | IRPF90                  | irpf90                 |         |
 | Java                    | java, jsp              |         |
 | JavaScript              | javascript, js, jsx    |         |
+| Jaiva                   | jaiva, jiv, jva        | [highlightjs-jaiva](https://github.com/yetnt/highlightjs-jaiva) |
 | Jolie                   | jolie, iol, ol         | [highlightjs-jolie](https://github.com/xiroV/highlightjs-jolie) |
 | JSON                    | json, jsonc, json5     |         |
 | JSONata                 | jsonata                | [highlightjs-jsonata](https://github.com/DevDimov/highlightjs-jsonata) |
